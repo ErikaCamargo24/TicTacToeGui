@@ -1,2 +1,4 @@
 fabian,Ganado, O ,2023-05-22 13:04:04
 erika,Ganado, O ,2023-05-22 14:40:25
+daniel,Ganado, X ,2023-05-23 08:15:00
+cami,Perdido, O ,2023-05-23 08:16:21

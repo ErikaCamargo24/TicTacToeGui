@@ -105,9 +105,9 @@ public class PanelScreenPlay {
 	        integrantesTab.add(new JLabel(" "));
 	        integrantesTab.add(new JLabel("Nelson Fabian Moreno - 202023289"));
 	        integrantesTab.add(new JLabel("Universidad Pedagogica y Tecnologica de Colombia"));
-	        integrantesTab.add(new JLabel("Erika Tatiana Camargo - 202023289"));
+	        integrantesTab.add(new JLabel("Erika Tatiana Camargo - 202023423"));
 	        integrantesTab.add(new JLabel("Facultad de ingenieria"));
-	        integrantesTab.add(new JLabel("Yeison Fernando Piracon - 202023289"));
+	        integrantesTab.add(new JLabel("Yeison Fernando Piracon - 202024013"));
 	        integrantesTab.add(new JLabel("Ingenieria de Sistemas"));
 	        integrantesTab.add(new JLabel(" "));
 	        integrantesTab.add(new JLabel("Programacion 2, 2023, 1"));
